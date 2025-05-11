@@ -1,1 +1,1 @@
-# goit-js-hw-01
+# test repo for js studying
